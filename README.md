@@ -25,11 +25,11 @@ And now I am studying canvas, svg, webgl, three.js, p5.js etc.✏️<br/>
 
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)
+![canvas](https://img.shields.io/badge/-Canvas-beige?style=flat-square)
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=323330)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![ThreeJs](https://img.shields.io/badge/-Three.js-fff?style=flat-square&logo=three.js&logoColor=323330)
-![canvas](https://img.shields.io/badge/-Canvas-beige?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=fff)
 
 <!-- ![WebGL](https://img.shields.io/badge/-WebGL-fff?style=flat-square&logo=webgl&logoColor=323330) -->
