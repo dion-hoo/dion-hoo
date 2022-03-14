@@ -4,10 +4,13 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seonho.jang1)](https://www.facebook.com/seonho.jang1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonho-jang-460685176)](https://www.linkedin.com/in/seonho-jang-460685176)
 
-<p>👋 Hello, My name is Jang Seon ho, I am User Interface engineer.<br/>
-I want to UX enginner or Interactive Developer. I would like to interactive and animated development.<br/>
-And now I am studying canvas, svg, webgl, three.js, p5.js etc.<br/>
+<p>👋 Hello, My name is Jang Seon ho, My English Name is Dion.<br />
+I am User Interface engineer.<br/>
+I want to UX enginner or Interactive Developer. I would like to interactive and animated development.💞<br/>
+
+And now I am studying canvas, svg, webgl, three.js, p5.js etc.✏️<br/>
 (It's difficult for webgl... First of all, the three.js!!)
+
 </p>
 
 ### :running: Career
