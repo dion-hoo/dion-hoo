@@ -6,7 +6,7 @@
 
 <p>👋 Hello, My name is Jang Seon ho, My English Name is Dion.<br />
 I am User Interface engineer.<br/>
-I want to UX enginner or Interactive Developer. I would like to interactive and animated development.💞<br/>
+I want to be UX enginner or Interactive Developer. I would like to interactive and animated development.💞<br/>
 
 And now I am studying canvas, svg, webgl, three.js, p5.js etc.✏️<br/>
 (It's difficult for webgl... First of all, the three.js!!)
