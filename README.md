@@ -9,7 +9,7 @@ I am User Interface engineer.<br/>
 I want to be UX enginner or Interactive Developer. I would like to interactive and animated development.💞<br/>
 
 And now I am studying canvas, svg, webgl, three.js, p5.js etc.✏️<br/>
-(It's not easy for me webgl... That`s why at the outset I am studying three.js)
+(Now, I am studying webGL)
 
 </p>
 
